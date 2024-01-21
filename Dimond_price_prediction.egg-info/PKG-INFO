@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: Dimond-price-prediction
+Version: 0.0.1
+Author: Vikash_Gupta
+Author-email: vkgupta0118@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: flask
